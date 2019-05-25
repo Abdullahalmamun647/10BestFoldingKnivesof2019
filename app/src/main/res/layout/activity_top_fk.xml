@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".topFk">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="match_parent">
+
+
+            <Button
+                android:onClick="bt1"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="50dp"
+                android:textStyle="bold"
+                android:padding="20dp"
+                android:textAlignment="center"
+                android:textColor="#03A9F4"
+                android:text="1. Kershaw Blur Knife"
+                android:background="@drawable/round2"
+                />
+
+            <Button
+                android:onClick="bt2"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:textStyle="bold"
+                android:padding="20dp"
+                android:textAlignment="center"
+                android:textColor="#03A9F4"
+                android:text="2. Gerber paraframe mini knife    "
+                android:background="@drawable/round2"
+                />
+
+            <Button
+                android:onClick="bt3"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:textStyle="bold"
+                android:padding="20dp"
+                android:textAlignment="center"
+                android:textColor="#03A9F4"
+                android:text="3. Smith and wesson ss assisted "
+                android:background="@drawable/round2"
+                />
+
+            <Button
+                android:onClick="bt4"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:textStyle="bold"
+                android:padding="20dp"
+                android:textAlignment="center"
+                android:textColor="#03A9F4"
+                android:text="4.Benchmade mini griptilian"
+                android:background="@drawable/round2"
+                />
+
+            <Button
+                android:onClick="bt5"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:textStyle="bold"
+                android:padding="20dp"
+                android:textAlignment="center"
+                android:textColor="#03A9F4"
+                android:text="5. Crkt squid folding pocket knife"
+                android:background="@drawable/round2"
+                />
+
+            <Button
+                android:onClick="bt6"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:textStyle="bold"
+                android:padding="20dp"
+                android:textAlignment="center"
+                android:textColor="#03A9F4"
+                android:text="6.Crkt squid folOntario
+         "
+                android:background="@drawable/round2"
+                />
+
+            <Button
+                android:onClick="bt7"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:textStyle="bold"
+                android:padding="20dp"
+                android:textAlignment="center"
+                android:textColor="#03A9F4"
+                android:text="7. Benchmade north fork knife  "
+                android:background="@drawable/round2"
+                />
+            <Button
+                android:onClick="bt8"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:textStyle="bold"
+                android:padding="20dp"
+                android:textAlignment="center"
+                android:textColor="#03A9F4"
+                android:text="8. Benchmade north fork knife      "
+                android:background="@drawable/round2"
+                />
+
+            <Button
+                android:onClick="bt9"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:textStyle="bold"
+                android:padding="20dp"
+                android:textAlignment="center"
+                android:textColor="#03A9F4"
+                android:text="      9.Sog money clip pocket knife  "
+                android:background="@drawable/round2"
+                />
+            <Button
+                android:onClick="bt10"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:textStyle="bold"
+                android:padding="20dp"
+                android:textAlignment="center"
+                android:textColor="#03A9F4"
+                android:text="10.Katsu handmade steel  "
+                android:background="@drawable/round2"
+                />
+
+        </LinearLayout>
+    </ScrollView>
+
+
+
+</LinearLayout>
